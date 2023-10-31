@@ -43,5 +43,6 @@ class Lab11B
         {
             Console.WriteLine("Invalid password");
         }
+        Console.Writeline("Program Ends");
     }
 }
